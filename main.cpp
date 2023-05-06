@@ -164,7 +164,7 @@ main()
                             totPlate = totPlate + (qtyPlate * 500);
                             totbill += totPlate;
                             cout << "\n                        Updated Plate Mount Stabilizers Bill = " << totPlate << "\n";
-                            cout << "                        Updated Total Bill = " << totbill << "\n";
+                            cout << "                     -   Updated Total Bill = " << totbill << "\n";
                             break;
                         case 2:
                             cout << "                        How many PCB Mount Stabilizers? ";

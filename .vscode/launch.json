@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "d:/Personal Files/Folders/School/College/MG2/Computer Programming 1/C++ Projects/Final Project",
-      "program": "d:/Personal Files/Folders/School/College/MG2/Computer Programming 1/C++ Projects/Final Project/build/Debug/outDebug",
+      "cwd": "d:/Personal Files/Folders/School/College/1st Semester/MG2/Computer Programming 1/C++ Projects/Final Project",
+      "program": "d:/Personal Files/Folders/School/College/1st Semester/MG2/Computer Programming 1/C++ Projects/Final Project/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
